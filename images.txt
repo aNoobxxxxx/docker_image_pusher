@@ -1,7 +1,7 @@
 
 #nginx
 #kasmweb/nginx:1.25.3
-libc6:2.35
+glibc:2.35
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
